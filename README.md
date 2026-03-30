@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ruyiq)](https://github.com/ruyiq/github-readme-stats)
+ <!--
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ruyiq)](https://github.com/ruyiq/github-readme-stats)
+-->
